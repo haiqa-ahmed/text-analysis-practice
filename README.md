@@ -1,2 +1,2 @@
 # text-analysis-practice
-Python practice - text analysis using loops, dictionaries, and conditionals
+A Python text analysis tool that counts word frequency, filters repeated words, and counts unique words
